@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": "a9f06297-b8d8-4af7-99fb-8d61f26f1560",
+      "name": "Mahesh Lakmal",
+      "email": "mahee@gmail.com"
+    },
+    {
+      "id": "3eecb62d-b461-4c27-9227-222798375c6d",
+      "name": "Nirosha Kumuduni",
+      "email": "Kumuduni@uom.lk"
+    },
+    {
+      "id": "157a9527-6364-4583-bdbf-2dc420df98b3",
+      "name": "malith piyumal",
+      "email": "malith@gmail.com"
+    },
+    {
+      "id": "5b594aac-2b4f-461d-908a-f50a4a7adf6c",
+      "name": "piyumi",
+      "email": "185041n@uom.lk"
+    },
+    {
+      "id": "ab097865-4c10-47db-8213-e8cbe894d40c",
+      "name": "Thesandu Shevon",
+      "email": "shevo@gmail.com"
+    },
+    {
+      "id": "92a999b9-097f-47f1-af08-e04d8828e6d7",
+      "name": "sithmi",
+      "email": "sithumini@gmail.com"
+    },
+    {
+      "id": "328007dc-4c38-496b-bfc8-5b633492db08",
+      "name": "Lahiru Perera",
+      "email": "lahiru@gmail.com"
+    },
+    {
+      "id": "7a86d9aa-058e-4133-a203-40f1890cecb3",
+      "name": "malith piyumal",
+      "email": "malith@uom.lk"
+    }
+  ]
+}
